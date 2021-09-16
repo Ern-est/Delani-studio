@@ -1,19 +1,165 @@
 .con1{
     background-image: url(images/delani.jpg);
+    width: 60%;
+    height: 50vh;
+    align-items: center;
+    padding: 40px;
+    margin: 100px auto;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    align-items: center;
+    text-align: center;
 
 }
 .container{
     background-image: url(images/delani\ z.jpg);
-
+    width: 60%;
+    height: 50vh;
+    align-items: center;
+    padding: 40px;
+    margin: 100px auto;
+    text-align: center;
 
 
     }
 
-.tain{
-    background-image:url(images/delani\ y.jpg);
 
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+#welcome {
+    
+    text-align: center;
+    
+    font-size: px;
+    background-repeat: no-repeat;
+}
+
+#contact {
+    background-image: url(images/delani\ y.jpg);
+    height: 12cm;
+    
+}
+#navyblue{
+    background-image: url(images/delani3.jpg);
+    color: orange;
+    
+}
+#Ontario{
+    background-image: url(images/delani1.jpg);
+    background-position: center;
+    columns: orange;
+
+}
+#Pyramid{
+    background-image: url(images/delani\ d.jpg);
+    color: orange;
+}
+#Jim{
+    background-image: url(images/delani\ p.jpg);
+    color: orange;
+    
+}
+#NiceDay{
+    background-image: url(images/delani15.jpg);
+    background-position: center;
+    color: orange;
+}
+#Calculator{
+    background-image: url(images/delani16.jpg);
+    color: orange;
+}
+#burned{
+    background-image: url(images/delani17.jpg);
+    background-position: center;
+    color: orange;
+}
+#Giraffe{
+    background-image: url(images/delani2.jpg);
+    background-position: center;
+    color:orange;
+}
+.portfolio{
+    background-color: coral;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+    
+}
+#social{
+    align-items: center
+}
+.hidden{
+    display: none;
+    color: black;
+}
+
+#navyblue p,
+#Ontario p,
+#Pyramid p,
+#Jim p,
+#NiceDay p,
+#Calculator p,
+#burned p,
+#Giraffe p{
+    display : none;
+}
+.dick{
+    font-size: x-small;
+    background-color: white;
+}
+.dell{
+    color: orange;
+}
+.form-label{
+    color: orange;
+}
+.col-sm-3 portfolio{
+    color: orange;
+}
+.container{
+    align-items: center;
+}
+.us{
+    color: orange;
+    margin: 50px;
+    
+
+}
+
+.white{
+    color: white;
+}
+.on{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.mid{
+    margin-left: 65px;
+
+}
+.midd{
+    margin-left: 130px;
+}
+.pip{
+    overflow-wrap: normal;
+    color: black;
+        
+
+
+}
+.hidden{
+    display: none;
 }
